@@ -7,6 +7,7 @@ Three different CNN Models have been used:
   - VGG16
   - LeNet
   - ResNet
+
 Each has to be run seperately with the 'train model' code block
 
 Use 'pip install -r requirements.txt' to install repective requirements
