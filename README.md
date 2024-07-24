@@ -10,6 +10,4 @@ Fine tuned CNN models used are
   - MobileNetV2
   - LeNet
 
-Each has to be run seperately with the 'train model' code block
-
 Use 'pip install -r requirements.txt' to install required libraries
