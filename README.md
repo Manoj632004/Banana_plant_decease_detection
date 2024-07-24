@@ -1,8 +1,7 @@
 # Bananaleaf_decease_detection
 
 dataset used:
-> https://www.kaggle.com/datasets/shifatearman/bananalsd
-> https://data.mendeley.com/datasets/79w2n6b4kf/1
+https://www.kaggle.com/datasets/shifatearman/bananalsd ; https://data.mendeley.com/datasets/79w2n6b4kf/1
 
 Three different CNN Models have been used:
   - VGG16
