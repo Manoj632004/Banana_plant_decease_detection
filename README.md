@@ -3,7 +3,7 @@
 dataset used:
 https://www.kaggle.com/datasets/shifatearman/bananalsd ; https://data.mendeley.com/datasets/79w2n6b4kf/1
 
-Three different CNN Models have been used:
+Fine tuned CNN models used are
   - VGG16
   - ResNet152V2
   - Inceptionv3
