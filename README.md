@@ -12,4 +12,4 @@ Fine tuned CNN models used are
 
 Each has to be run seperately with the 'train model' code block
 
-Use 'pip install -r requirements.txt' to install repective requirements
+Use 'pip install -r requirements.txt' to install required libraries
