@@ -1,2 +1,4 @@
 tensorflow
 opencv
+pillow
+Flask
