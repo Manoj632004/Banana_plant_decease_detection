@@ -14,6 +14,6 @@ setting up the web app:
 - Create virtual environment
 - Use 'pip install -r requirements.txt' to install required libraries
 - import python files
-- run 
-- create static folder in your virtual environment for the used uploaded image to store
+- compile run.ipynb to get the model.h5 file with the CNN model you wish to run 
+- create static folder in your virtual environment for the user uploaded image to store
 - Use 'python app.py' to run the web app
