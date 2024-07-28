@@ -10,4 +10,9 @@ Fine tuned CNN models used are
   - MobileNetV2
   - LeNet
 
-Use 'pip install -r requirements.txt' to install required libraries
+setting up flask web app:
+- Create virtual environment
+- Use 'pip install -r requirements.txt' to install required libraries
+- import python files
+- create static folder in your virtual environment for the used uploaded image to store
+- Use 'python app.py' to run the web app
