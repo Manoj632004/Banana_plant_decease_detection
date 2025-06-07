@@ -8,12 +8,12 @@ The model was trained on a **combined dataset** from two sources:
 2. [Mendeley Banana Leaf Dataset](https://data.mendeley.com/datasets/79w2n6b4kf/1)
 
 the dataset includes the following **7 classes**:
-- Black Sigatoka
-- Yellow Sigatoka
-- Banana Bunchy Top Virus (BBTV)
-- Banana Streak Virus (BSV)
-- Banana Bract Mosaic Virus (BBMV)
-- Fusarium Wilt
+- Sigatoka
+- Moko
+- Insect Pest
+- pestalotiopsis
+- Bract Mosaic Virus 
+- cordana
 - Healthy
 
 ## Models Used
