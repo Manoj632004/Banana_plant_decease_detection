@@ -36,7 +36,7 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/banana-leaf-disease-detection.git
+git clone https://github.com/Manoj632004/Banana_plant_decease_detection
 cd banana-leaf-disease-detection
 ```
 
