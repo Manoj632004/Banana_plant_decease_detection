@@ -26,12 +26,7 @@ The following CNN architectures were fine-tuned for classification:
 - InceptionV3  
 - MobileNetV2  
 - LeNet (custom implementation)
-<img width="4000" height="2400" alt="VGG_loss_plot" src="https://github.com/user-attachments/assets/29546539-777e-4482-b2e3-6e821812bad0" />
-<img width="4000" height="2400" alt="ResNet_loss_plot" src="https://github.com/user-attachments/assets/03bc311c-1eb2-47f4-b572-8cf3a43cd0ee" />
-<img width="4000" height="2400" alt="GoogLeNet_loss_plot" src="https://github.com/user-attachments/assets/48148d63-ec99-405b-86c8-2dd9922df25e" />
-<img width="4000" height="2400" alt="LeNet_loss_plot" src="https://github.com/user-attachments/assets/43ef73ad-f510-44c6-a5d0-68a22c400aea" />
-<img width="4000" height="2400" alt="MobileNet_loss_plot" src="https://github.com/user-attachments/assets/32cf61e6-bdc8-4d4b-b6a6-590c214a6ac7" />
-
+  
 The best performing model - VGG16 is saved as `model.h5` for inference in the web application.
 
 ## Workflow of Proposed Model
@@ -49,12 +44,10 @@ cd banana-leaf-disease-detection
 ```
 
 ### 2. Install Dependencies
-
 ```bash
 pip install -r requirements.txt
 ```
 ### 3. Train Model
-
 - Run the run.ipynb notebook to train your desired CNN model.
 - Export the model as model.h5
 
